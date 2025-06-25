@@ -21,7 +21,7 @@ Foi utilizado um pipeline de processamento e limpeza com foco em análise explor
 
 Você pode abrir e testar o notebook diretamente no Google Colab:
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EstevaoDev/Alura_ETL/blob/main/etl_alura_challenge(1).ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EstevaoDev/Alura_ETL/blob/main/etl_alura_challenge.ipynb)
 
 Ou siga os passos abaixo para clonar o projeto localmente:
 
